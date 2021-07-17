@@ -35,7 +35,7 @@ p, h1 {
 .info {
     display: flex;
     flex-direction: colum;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 .info p {
