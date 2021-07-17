@@ -34,7 +34,7 @@ p, h1 {
 }
 .info {
     display: flex;
-    flex-direction: row;
+    flex-direction: colum;
     justify-content: space-between;
     align-items: center;
 }
@@ -46,5 +46,4 @@ p, h1 {
 .info img {
     height: 50px;
     border-radius: 50%;
-    margin-right: 5px;
 }
