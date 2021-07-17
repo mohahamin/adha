@@ -34,7 +34,7 @@ p, h1 {
 }
 .info {
     display: flex;
-    flex-direction: colum;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
