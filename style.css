@@ -3,10 +3,12 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
+body {
+  background-color: #ffffff;
+}
 html {
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
 }
 p, h1 {
     color: #868686;
